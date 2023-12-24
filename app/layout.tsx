@@ -6,8 +6,8 @@ import Footer from "../components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "ArchQuest",
-  description: "Get new questions everyday",
+  title: "Hilink",
+  description: "Find your next trail!",
 };
 
 export default function RootLayout({
